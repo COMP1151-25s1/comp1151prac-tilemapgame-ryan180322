@@ -9,7 +9,7 @@
     "fileStates": {
         "MyTileMap.tmx": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 113.99999999999999,
                 "y": 136.33333333333331
